@@ -1,0 +1,20 @@
+﻿1;Basics;Come on in. ;들어오세요.;deureooseyo. ;file:///android_asset/basics.png
+2;Basics;Could you go lower? ;더 낮은 가격에 가능합니까?;deo najeun gagyeoge ganeunghamnikka?;file:///android_asset/basics.png
+3;Basics;Do you speak English? ;영어 할 줄 아시나요?; yeongeo hal jul asinayo? ;file:///android_asset/basics.png
+4;Basics;Excuse me (I am sorry) ;죄송합니다;joesonghamnida ;file:///android_asset/basics.png
+5;Basics;Excuse me (May I ask ...) ;실례합니다;sillyehamnida ;file:///android_asset/basics.png
+6;Basics;Good afternoon. ;안녕하세요;annyeonghaseyo ;file:///android_asset/basics.png
+7;Basics;Good evening. ;안녕하세요;annyeonghaseyo ;file:///android_asset/basics.png
+8;Basics;Good morning. ;좋은 아침입니다.;joeun achimimnida. ;file:///android_asset/basics.png
+9;Basics;Good night;좋은 밤 되십시요;joeun bam doesipsiyo ;file:///android_asset/basics.png
+10;Basics;Good-bye. ;안녕히계세요.;annyeonghigyeseyo. ;file:///android_asset/basics.png
+11;Basics;Have a seat. ;자리에 앉으시죠.;jarie anjeusijyo. ;file:///android_asset/basics.png
+12;Basics;Hello. ;안녕하세요;annyeonghaseyo;file:///android_asset/basics.png
+13;Basics;How much is it? ;얼마죠?;eolmajyo? ;file:///android_asset/basics.png
+14;Basics;I am American. ;전 미국인입니다.;jeon miguginimnida. ;file:///android_asset/basics.png
+15;Basics;See you in a little bit. ;잠시 후에 뵙겠습니다.;jamsi hue boepgetseumnida. ;file:///android_asset/basics.png
+16;Basics;Thank you. ;감사합니다.;gamsahamnida. ;file:///android_asset/basics.png
+17;Basics;That's all right. Never mind. ;괜찮습니다. 걱정하지 마세요.;gwaenchansseumnida. geokjeonghaji maseyo. ;file:///android_asset/basics.png
+18;Basics;That's too expensive. ;너무 비싸군요.;neomu bissagunyo. ;file:///android_asset/basics.png
+19;Basics;Welcome. ;어서오세요.;eoseooseyo.;file:///android_asset/basics.png
+20;Basics;What time is it? ;지금 몇시죠?; jigeum myeotsijyo? ;file:///android_asset/basics.png

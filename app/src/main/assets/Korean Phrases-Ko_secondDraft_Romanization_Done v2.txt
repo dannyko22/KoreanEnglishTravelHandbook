@@ -1,0 +1,812 @@
+﻿1;Basics;Hello. ;안녕하세요;annyeonghaseyo;file:///android_asset/basics.png
+2;Basics;Good morning. ;좋은 아침입니다.;joeun achimimnida. ;file:///android_asset/basics.png
+3;Basics;Good afternoon. ;안녕하세요;annyeonghaseyo ;file:///android_asset/basics.png
+4;Basics;Good evening. ;안녕하세요;annyeonghaseyo ;file:///android_asset/basics.png
+5;Basics;Good night;좋은 밤 되십시요;joeun bam doesipsiyo ;file:///android_asset/basics.png
+6;Basics;Good-bye. ;안녕히계세요.;annyeonghigyeseyo. ;file:///android_asset/basics.png
+7;Basics;Do you speak English? ;영어 할 줄 아시나요?; yeongeo hal jul asinayo? ;file:///android_asset/basics.png
+8;Basics;Excuse me (I am sorry) ;죄송합니다;joesonghamnida ;file:///android_asset/basics.png
+9;Basics;Excuse me (May I ask ...) ;실례합니다;sillyehamnida ;file:///android_asset/basics.png
+10;Basics;See you in a little bit. ;잠시 후에 뵙겠습니다.;jamsi hue boepgetseumnida. ;file:///android_asset/basics.png
+11;Basics;Thank you. ;감사합니다.;gamsahamnida. ;file:///android_asset/basics.png
+12;Basics;Welcome. ;어서오세요.;eoseooseyo.;file:///android_asset/basics.png
+13;Basics;What time is it? ;지금 몇시죠?; jigeum myeotsijyo? ;file:///android_asset/basics.png
+14;Basics;Where is the bathroom? ;화장실은 어디에 있나요?;hwajangsireun eodie innayo?;file:///android_asset/basics.png
+15;Basics;Wonderful! ;좋군요!; jokunyo! ;file:///android_asset/basics.png
+16;Basics;You are welcome. ;천만에요;cheonmaneyo;file:///android_asset/basics.png
+17;Everyday Activities;brush teeth;이빨닦기;ippaldakgi ;file:///android_asset/everyday.png
+18;Everyday Activities;cook;요리;yori ;file:///android_asset/everyday.png
+19;Everyday Activities;do laundry ;빨래;ppallae ;file:///android_asset/everyday.png
+20;Everyday Activities;drive a car;차 운전;cha unjeon ;file:///android_asset/everyday.png
+21;Everyday Activities;eat a meal;식사하기;siksahagi ;file:///android_asset/everyday.png
+22;Everyday Activities;get dressed;옷 입기;ot ipgi ;file:///android_asset/everyday.png
+23;Everyday Activities;get up;일어나기;ireonagi ;file:///android_asset/everyday.png
+24;Everyday Activities;go to school;학교가기;hakgyogagi ;file:///android_asset/everyday.png
+25;Everyday Activities;go to the bathroom;화장실 가기;hwajangsil gagi;file:///android_asset/everyday.png
+26;Everyday Activities;go to work ;일 가기;il gagi ;file:///android_asset/everyday.png
+27;Everyday Activities;ride a bicycle;자전거 타기;jajeongeo tagi ;file:///android_asset/everyday.png
+28;Everyday Activities;shower/bathe;샤워/목욕하기;syawo/mogyokagi ;file:///android_asset/everyday.png
+29;Everyday Activities;sleep;자기;jagi ;file:///android_asset/everyday.png
+30;Everyday Activities;wash face;세수하기;sesuhagi;file:///android_asset/everyday.png
+31;Money;basic unit of money;원;won;file:///android_asset/money.png
+32;Money;cash;현금;hyeongeum;file:///android_asset/money.png
+33;Money;cent;센트;senteu ;file:///android_asset/money.png
+34;Money;credit card;신용 카드;sinyong kadeu;file:///android_asset/money.png
+35;Money;money;돈;don ;file:///android_asset/money.png
+36;Money;U.S. dollar;미 달러;mi dalleo;file:///android_asset/money.png
+37;Numbers;1;일;il;file:///android_asset/numbers.png
+38;Numbers;2;이;i;file:///android_asset/numbers.png
+39;Numbers;3;삼;sam ;file:///android_asset/numbers.png
+40;Numbers;4;사;sa ;file:///android_asset/numbers.png
+41;Numbers;5;오;o ;file:///android_asset/numbers.png
+42;Numbers;6;육;yuk ;file:///android_asset/numbers.png
+43;Numbers;7;칠;chil ;file:///android_asset/numbers.png
+44;Numbers;8;팔;pal ;file:///android_asset/numbers.png
+45;Numbers;9;구;gu ;file:///android_asset/numbers.png
+46;Numbers;10;십;sip ;file:///android_asset/numbers.png
+47;Numbers;11;십일;sibil ;file:///android_asset/numbers.png
+48;Numbers;12;십이;sibi ;file:///android_asset/numbers.png
+49;Numbers;20;이십;isip ;file:///android_asset/numbers.png
+50;Numbers;21;이십일;isibil ;file:///android_asset/numbers.png
+51;Numbers;22;이십이;isibi ;file:///android_asset/numbers.png
+52;Numbers;30;삼십;samsip ;file:///android_asset/numbers.png
+53;Numbers;31;삼십일;samsibil ;file:///android_asset/numbers.png
+54;Numbers;32;삼십이;samsibi ;file:///android_asset/numbers.png
+55;Numbers;40;사십;sasip ;file:///android_asset/numbers.png
+56;Numbers;50;오십;osip ;file:///android_asset/numbers.png
+57;Numbers;60;육십;yuksip ;file:///android_asset/numbers.png
+58;Numbers;70;칠십;chilsip ;file:///android_asset/numbers.png
+59;Numbers;80;팔십;palsip ;file:///android_asset/numbers.png
+60;Numbers;90;구십;gusip ;file:///android_asset/numbers.png
+61;Numbers;100;백;baek ;file:///android_asset/numbers.png
+62;Numbers;101;백일;baegil ;file:///android_asset/numbers.png
+63;Numbers;102;백이;baegi ;file:///android_asset/numbers.png
+64;Numbers;110;백십;baeksip ;file:///android_asset/numbers.png
+65;Numbers;111;백십일;baeksibil;file:///android_asset/numbers.png
+66;Numbers;112;백십이;baeksibi ;file:///android_asset/numbers.png
+67;Numbers;200;이백;ibaek;file:///android_asset/numbers.png
+68;Numbers;201;이백일;ibaegil ;file:///android_asset/numbers.png
+69;Numbers;202;이백이;ibaegi ;file:///android_asset/numbers.png
+70;Numbers;210;이백십;ibaeksip ;file:///android_asset/numbers.png
+71;Numbers;211;이백십일;ibaeksibil ;file:///android_asset/numbers.png
+72;Numbers;212;이백십이;ibaeksibi ;file:///android_asset/numbers.png
+73;Numbers;"1,000";천;cheon ;file:///android_asset/numbers.png
+74;Numbers;"1,001";천일;cheonil ;file:///android_asset/numbers.png
+75;Numbers;"1,011";천십일;cheonsibil ;file:///android_asset/numbers.png
+76;Numbers;"1,100";천백;cheonbaek ;file:///android_asset/numbers.png
+77;Numbers;"1,101";천백일;cheonbaegil;file:///android_asset/numbers.png
+78;Numbers;"2,000";이천;icheon ;file:///android_asset/numbers.png
+79;Numbers;"10,000";만;man;file:///android_asset/numbers.png
+80;Numbers;"11,111";만천백십일;mancheonbaeksibil ;file:///android_asset/numbers.png
+81;Numbers;"20,000";이만;iman ;file:///android_asset/numbers.png
+82;Numbers;"100,000";십만;simman ;file:///android_asset/numbers.png
+83;Numbers;"111,111";십만십천백십일;simmansipcheonbaeksibil;file:///android_asset/numbers.png
+84;Numbers;"200,000";이십만;isimman ;file:///android_asset/numbers.png
+85;Numbers;"1,000,000";백만;baengman ;file:///android_asset/numbers.png
+86;Numbers;"1,111,111";백십일만천백십일;baeksibilmancheonbaeksibil ;file:///android_asset/numbers.png
+87;Numbers;"2,000,000";이백만;ibaengman ;file:///android_asset/numbers.png
+88;Numbers;"10,000,000";천만;cheonman ;file:///android_asset/numbers.png
+89;Numbers;"11,111,111";천백십일만천백십일;cheonbaeksibilmancheonbaeksibil ;file:///android_asset/numbers.png
+90;Numbers;"100,000,000";일억;ireok;file:///android_asset/numbers.png
+91;Numbers;"111,111,111";일억일천백십일만천백십일;ireogilcheonbaeksibilmancheonbaeksibil ;file:///android_asset/numbers.png
+92;Numbers;"1,000,000,000";십억;sibeok ;file:///android_asset/numbers.png
+93;Numbers;"1,111,111,111";십억천백십일만천백십일;sibeokcheonbaeksibilmancheonbaeksibil;file:///android_asset/numbers.png
+94;People;boyfriend;남자친구;namjachingu ;file:///android_asset/people.png
+95;People;classmate;급우;geubu ;file:///android_asset/people.png
+96;People;college student;대학생;daehaksaeng ;file:///android_asset/people.png
+97;People;dad/father ;아빠/아버지;appa/abeoji ;file:///android_asset/people.png
+98;People;elementary student;초등학생;chodeunghaksaeng ;file:///android_asset/people.png
+99;People;father's older brother ;큰아버지;keunabeoji ;file:///android_asset/people.png
+100;People;father's sister;큰어머니;keuneomeoni ;file:///android_asset/people.png
+101;People;father's younger brother;작은아버지;jageunabeoji ;file:///android_asset/people.png
+102;People;foreign student;외국인 학생;oegugin haksaeng ;file:///android_asset/people.png
+103;People;freshman year;1학년생;1hangnyeonsaeng ;file:///android_asset/people.png
+104;People;friend;친구;chingu ;file:///android_asset/people.png
+105;People;girlfriend;여자친구;yeojachingu ;file:///android_asset/people.png
+106;People;graduate student;대학원생;daehagwonsaeng ;file:///android_asset/people.png
+107;People;granddaughter from daughter ;외손녀;oesonnyeo ;file:///android_asset/people.png
+108;People;granddaughter from son;외손자;oesonja ;file:///android_asset/people.png
+109;People;grandson from daughter;손녀;sonnyeo;file:///android_asset/people.png
+110;People;grandson from son;손자;sonja;file:///android_asset/people.png
+111;People;high school student;고등학생;godeunghaksaeng ;file:///android_asset/people.png
+112;People;husband;남편;nampyeon ;file:///android_asset/people.png
+113;People;family member;가족구성원;gajokguseongwon ;file:///android_asset/people.png
+114;People;junior year;중학생;junghaksaeng ;file:///android_asset/people.png
+115;People;maternal grandfather;외할아버지;oeharabeoji ;file:///android_asset/people.png
+116;People;maternal grandmother;외할머니;oehalmeoni ;file:///android_asset/people.png
+117;People;middle school student;중학생;junghaksaeng ;file:///android_asset/people.png
+118;People;mom/mother;엄마/어머니;eomma/eomeoni ;file:///android_asset/people.png
+119;People;mother's brother ;외삼촌;oesamchon ;file:///android_asset/people.png
+120;People;mother's sister;이모;imo ;file:///android_asset/people.png
+121;People;older brother;형(if the caller is male)/오빠(if the caller is female);hyeong(if the caller is male)/oppa(if the caller is female) ;file:///android_asset/people.png
+122;People;older sister;누나/언니;nuna/eonni ;file:///android_asset/people.png
+123;People;paternal grandfather ;친할아버지;chinharabeoji ;file:///android_asset/people.png
+124;People;paternal grandmother ;친할머니;chinhalmeoni ;file:///android_asset/people.png
+125;People;president of university ;대학교 학장;daehakgyo hakjang ;file:///android_asset/people.png
+126;People;professor;교수;gyosu ;file:///android_asset/people.png
+127;People;relative;친척;chincheok ;file:///android_asset/people.png
+128;People;roommate;룸메이트;rummeiteu ;file:///android_asset/people.png
+129;People;school;학교;hakgyo;file:///android_asset/people.png
+130;People;siblings;형제자매;hyeongjejamae ;file:///android_asset/people.png
+131;People;teacher;교사;gyosa ;file:///android_asset/people.png
+132;People;wife;아내;anae ;file:///android_asset/people.png
+133;People;younger brother;동생;dongsaeng ;file:///android_asset/people.png
+134;People;younger sister (last name different from yours) ;동생;dongsaeng;file:///android_asset/people.png
+135;Places;auditorium;강당;gangdang ;file:///android_asset/people.png
+136;Places;bookstore;서점;seojeom ;file:///android_asset/places.png
+137;Places;business school;경영 대학원;gyeongyeong daehagwon ;file:///android_asset/places.png
+138;Places;café ;카페;kape ;file:///android_asset/places.png
+139;Places;cafeteria ;카페테리아;kapeteria ;file:///android_asset/places.png
+140;Places;campus;교정;gyojeong ;file:///android_asset/places.png
+141;Places;classroom;교실;gyosil ;file:///android_asset/places.png
+142;Places;computer room;컴퓨터 교실;keompyuteo gyosil ;file:///android_asset/places.png
+143;Places;department;부서;buseo ;file:///android_asset/places.png
+144;Places;dormitory;기숙사;gisuksa ;file:///android_asset/places.png
+145;Places;gym;체육관;cheyukgwan ;file:///android_asset/places.png
+146;Places;laboratory;실험실;silheomsil ;file:///android_asset/places.png
+147;Places;language laboratory;어학 실습실;eohak silseupsil ;file:///android_asset/places.png
+148;Places;law school;로스쿨;roseukul ;file:///android_asset/places.png
+149;Places;library;도서관;doseogwan ;file:///android_asset/places.png
+150;Places;medical school ;의과 대학;uigwa daehak ;file:///android_asset/places.png
+151;Places;office;사무실;samusil ;file:///android_asset/places.png
+152;Places;stadium ;경기장;gyeonggijang;file:///android_asset/places.png
+153;Restaurant;Bowl;그릇;geureut ;file:///android_asset/restaurant.png
+154;Restaurant;Can we move to another table;다른 식탁으로 이동 가능한가요;dareun siktageuro idong ganeunghangayo ;file:///android_asset/restaurant.png
+155;Restaurant;Chopsticks;젓가락;jeotgarak ;file:///android_asset/restaurant.png
+156;Restaurant;Deep fried;튀김;twigim ;file:///android_asset/restaurant.png
+157;Restaurant;Do you have a no smoking area;흡연 가능한 곳이 있나요;heubyeon ganeunghan gosi innayo ;file:///android_asset/restaurant.png
+158;Restaurant;I am vegetarian;전 채식주의자입니다;jeon chaesikjuuijaimnida;file:///android_asset/restaurant.png
+159;Restaurant;I can’t eat beef;전 쇠고기를 못먹습니다;jeon soegogireul monmeokseumnida ;file:///android_asset/restaurant.png
+160;Restaurant;I can’t eat pork;전 돼지고기를 못먹습니다;jeon dwaejigogireul monmeokseumnida ;file:///android_asset/restaurant.png
+161;Restaurant;I think you forgot one of my orders;제 주문 중 하나를 잊어버리신 것 같습니다;je jumun jung hanareul ijeobeorisin geot gatseumnida ;file:///android_asset/restaurant.png
+162;Restaurant;Knife;칼;kal ;file:///android_asset/restaurant.png
+163;Restaurant;Less salt;소금을 적게 넣주세요;sogeumeul jeokge neochuseyo ;file:///android_asset/restaurant.png
+164;Restaurant;Napkins;냅킨;naepkin ;file:///android_asset/restaurant.png
+165;Restaurant;No MSG;MSG 쓰지 말아주세요;MSG sseuji marajuseyo ;file:///android_asset/restaurant.png
+166;Restaurant;No spicy dishes;매운 음식은 안 됩니다;maeun eumsigeun an doemnida ;file:///android_asset/restaurant.png
+167;Restaurant;Plate;접시;jeopsi ;file:///android_asset/restaurant.png
+168;Restaurant;Receipt please;영수증 주세요;yeongsujeung juseyo ;file:///android_asset/restaurant.png
+169;Restaurant;Soup;수프;supeu ;file:///android_asset/restaurant.png
+170;Restaurant;Spicy dishes;매운 음식;maeun eumsik ;file:///android_asset/restaurant.png
+171;Restaurant;Spoon;숟가락;sutgarak ;file:///android_asset/restaurant.png
+172;Restaurant;Steamed;찐;jjin ;file:///android_asset/restaurant.png
+173;Restaurant;That was a great meal;정말 맛있었습니다;jeongmal masisseotseumnida;file:///android_asset/restaurant.png
+174;Restaurant;Drink is bad;술이 맛이 없다;suri masi eopda ;file:///android_asset/restaurant.png
+175;Restaurant;Food is bad;음식이 맛이 없다;eumsigi masi eopda ;file:///android_asset/restaurant.png
+176;Beverages;alcohol;알콜;alkol ;file:///android_asset/beverages.png
+177;Beverages;Apple juice;사과 주스;sagwa juseu ;file:///android_asset/beverages.png
+178;Beverages;Beer;맥주;maekju ;file:///android_asset/beverages.png
+179;Beverages;black tea;홍차;hongcha ;file:///android_asset/beverages.png
+180;Beverages;Chrysanthemum tea;국화차;gukwacha ;file:///android_asset/beverages.png
+181;Beverages;Coca cola;코카 콜라;koka kolla ;file:///android_asset/beverages.png
+182;Beverages;cocoa;코코아;kokoa ;file:///android_asset/beverages.png
+183;Beverages;Coffee;커피;keopi ;file:///android_asset/beverages.png
+184;Beverages;Coke – diet;코크- 다이어트;kokeu- daieoteu ;file:///android_asset/beverages.png
+185;Beverages;cola;콜라;kolla ;file:///android_asset/beverages.png
+186;Beverages;fruit juice;과일 주스;gwail juseu ;file:///android_asset/beverages.png
+187;Beverages;Green tea;녹차;nokcha;file:///android_asset/beverages.png
+188;Beverages;Ice;아이스; aiseu ;file:///android_asset/beverages.png
+189;Beverages;jasmine tea;재스민 차;jaeseumin cha;file:///android_asset/beverages.png
+190;Beverages;lemonade;레모네이드;remoneideu ;file:///android_asset/beverages.png
+191;Beverages;milk;우유;uyu ;file:///android_asset/beverages.png
+192;Beverages;mineral water;광천수;gwangcheonsu;file:///android_asset/beverages.png
+193;Beverages;No ice;얼음없이; eoreumeopsi ;file:///android_asset/beverages.png
+194;Beverages;oolong tea;우롱차;urongcha ;file:///android_asset/beverages.png
+195;Beverages;Orange juice;오렌지 주스;orenji juseu ;file:///android_asset/beverages.png
+196;Beverages;Pepsi;펩시;pepsi ;file:///android_asset/beverages.png
+197;Beverages;Pepsi – diet;펩시 - 다이어트;pepsi - daieoteu ;file:///android_asset/beverages.png
+198;Beverages;red wine;레드와인;redeuwain ;file:///android_asset/beverages.png
+199;Beverages;soda;소다;soda ;file:///android_asset/beverages.png
+200;Beverages;Sprite;스프라이트;seupeuraiteu ;file:///android_asset/beverages.png
+201;Beverages;tea ;차;cha ;file:///android_asset/beverages.png
+202;Beverages;water;물;mul ;file:///android_asset/beverages.png
+203;Beverages;White spirit (Chinese soju);화이트 스피릿;hwaiteu seupirit;file:///android_asset/beverages.png
+204;Beverages;white wine;화이트 와인;hwaiteu wain ;file:///android_asset/beverages.png
+205;Beverages;yoghurt;요거트;yogeoteu;file:///android_asset/beverages.png
+206;Shopping;How much is it? ;얼마죠?;eolmajyo? ;file:///android_asset/shopping.png
+207;Shopping;That's too expensive. ;너무 비싸군요.;neomu bissagunyo. ;file:///android_asset/shopping.png
+208;Shopping;Could you go lower? ;더 낮은 가격에 가능합니까?;deo najeun gagyeoge ganeunghamnikka?;file:///android_asset/shopping.png
+209;Shopping;Can I pay with a foreign credit card;외국 신용 카드로 결제할 수 있나요;oeguk sinyong kadeuro gyeoljehal su innayo ;file:///android_asset/shopping.png
+210;Shopping;Can you deliver;배달 가능한가요;baedal ganeunghangayo ;file:///android_asset/shopping.png
+211;Shopping;Can you lower the price;더 낮은 가격에 안 되나요;deo najeun gagyeoge an doenayo ;file:///android_asset/shopping.png
+212;Shopping;Is there an ATM machine nearby;근처에 ATM 기계가 있나요;geuncheoe ATM gigyega innayo ;file:///android_asset/shopping.png
+213;Shopping;Receipt;영수증;yeongsujeung;file:///android_asset/shopping.png
+214;Shopping;Too big;너무 커요;neomu keoyo ;file:///android_asset/shopping.png
+215;Shopping;Too small;너무 작아요;neomu jagayo ;file:///android_asset/shopping.png
+216;Shopping;When do you close;언제 문 닫으시나요;eonje mun dadeusinayo;file:///android_asset/shopping.png
+217;Shopping;Your price is very high;가격이 너무 높아요;gagyeogi neomu nopayo ;file:///android_asset/shopping.png
+218;Travel & Transportation;airlines;항공사;hanggongsa ;file:///android_asset/travel.png
+219;Travel & Transportation;airplane;비행기;bihaenggi ;file:///android_asset/travel.png
+220;Travel & Transportation;airport;공항;gonghang ;file:///android_asset/travel.png
+221;Travel & Transportation;aisle seat;통로 쪽 자리;tongno jjok jari ;file:///android_asset/travel.png
+222;Travel & Transportation;bicycle;자전거;jajeongeo ;file:///android_asset/travel.png
+223;Travel & Transportation;boat/ship;보트/선박;boteu/seonbak ;file:///android_asset/travel.png
+224;Travel & Transportation;bus;버스;beoseu ;file:///android_asset/travel.png
+225;Travel & Transportation;bus stop;버스 정류장;beoseu jeongnyujang ;file:///android_asset/travel.png
+226;Travel & Transportation;car;자동차;jadongcha ;file:///android_asset/travel.png
+227;Travel & Transportation;direct flight;직항;jikang ;file:///android_asset/travel.png
+228;Travel & Transportation;direct/through;직항/경유;jikang/gyeongyu ;file:///android_asset/travel.png
+229;Travel & Transportation;express;급행;geupaeng;file:///android_asset/travel.png
+230;Travel & Transportation;hard seater (train);딱딱한 의자;ttakttakan uija ;file:///android_asset/travel.png
+231;Travel & Transportation;hard sleeper (train);딱딱한 침대;ttakttakan chimdae ;file:///android_asset/travel.png
+232;Travel & Transportation;luggage;짐;jim ;file:///android_asset/travel.png
+233;Travel & Transportation;motorcycle;오토바이;otobai ;file:///android_asset/travel.png
+234;Travel & Transportation;one-way ticket;편도권;pyeondogwon ;file:///android_asset/travel.png
+235;Travel & Transportation;passport;여권;yeogwon ;file:///android_asset/travel.png
+236;Travel & Transportation;round-trip ticket;왕복권;wangbokgwon ;file:///android_asset/travel.png
+237;Travel & Transportation;soft seater (train);푹신한 의자;puksinhan uija ;file:///android_asset/travel.png
+238;Travel & Transportation;soft sleeper (train);푹신한 침대;puksinhan chimdae;file:///android_asset/travel.png
+239;Travel & Transportation;subway;지하철;jihacheol;file:///android_asset/travel.png
+240;Travel & Transportation;taxi;택시;taeksi ;file:///android_asset/travel.png
+241;Travel & Transportation;ticket;티켓;tiket ;file:///android_asset/travel.png
+242;Travel & Transportation;time schedule;시간 스케줄;sigan seukejul ;file:///android_asset/travel.png
+243;Travel & Transportation;to arrive;도착 시간까지;dochak sigankkaji ;file:///android_asset/travel.png
+244;Travel & Transportation;to board (aircraft);탑승 시간까지;tapseung sigankkaji;file:///android_asset/travel.png
+245;Travel & Transportation;to book ticket;티켓 구매까지;tiket gumaekkaji ;file:///android_asset/travel.png
+246;Travel & Transportation;to check luggage;수하물 확인까지;suhamul hwaginkkaji ;file:///android_asset/travel.png
+247;Travel & Transportation;to depart (train/bus);출발까지;chulbalkkaji ;file:///android_asset/travel.png
+248;Travel & Transportation;to drive;주행까지;juhaengkkaji ;file:///android_asset/travel.png
+249;Travel & Transportation;to land (plane);착륙까지;changnyukkkaji ;file:///android_asset/travel.png
+250;Travel & Transportation;to ride;타기까지;tagikkaji ;file:///android_asset/travel.png
+251;Travel & Transportation;to take (vehicle);탑승까지;tapseungkkaji ;file:///android_asset/travel.png
+252;Travel & Transportation;to take off (plane);이륙까지;iryukkkaji ;file:///android_asset/travel.png
+253;Travel & Transportation;to travel;여행까지;yeohaengkkaji ;file:///android_asset/travel.png
+254;Travel & Transportation;to walk;걸어가기까지;georeogagikkaji ;file:///android_asset/travel.png
+255;Travel & Transportation;train;기차;gicha ;file:///android_asset/travel.png
+256;Travel & Transportation;train station;기차역;gichayeok ;file:///android_asset/travel.png
+257;Travel & Transportation;travel agency;여행사;yeohaengsa ;file:///android_asset/travel.png
+258;Travel & Transportation;visa;비자;bija ;file:///android_asset/travel.png
+259;Travel & Transportation;window seat;창가 쪽 좌석;changga jjok jwaseok ;file:///android_asset/travel.png
+260;Directions & Taxi;Close the window;창문 좀 닫아주세요;changmun jom dadajuseyo;file:///android_asset/direction.png
+261;Directions & Taxi;Don’t smoke;담배피지 말아주세요;dambaepiji marajuseyo ;file:///android_asset/direction.png
+262;Directions & Taxi;Don’t stop the meter;미터기 끄지 말아주세요;miteogi kkeuji marajuseyo ;file:///android_asset/direction.png
+263;Directions & Taxi;Drive carefully;안전운행 부탁드립니다;anjeonunhaeng butakdeurimnida ;file:///android_asset/direction.png
+264;Directions & Taxi;Go east;동쪽으로 가주세요;dongjjogeuro gajuseyo ;file:///android_asset/direction.png
+265;Directions & Taxi;Go north;북쪽으로 가주세요;bukjjogeuro gajuseyo ;file:///android_asset/direction.png
+266;Directions & Taxi;Go south;남쪽으로 가주세요;namjjogeuro gajuseyo;file:///android_asset/direction.png
+267;Directions & Taxi;Go straight;직진해주세요;jikjinhaejuseyo ;file:///android_asset/direction.png
+268;Directions & Taxi;Go west;서쪽으로 가주세요;seojjogeuro gajuseyo;file:///android_asset/direction.png
+269;Directions & Taxi;How far is ...;…는 얼마나 먼가요?;...nneun eolmana meongayo? ;file:///android_asset/direction.png
+270;Directions & Taxi;How long will it take to get to ...;…까지 가려면 얼마나 걸리나요?;...kkaji garyeomyeon eolmana geollinayo? ;file:///android_asset/direction.png
+271;Directions & Taxi;Pick my friend up;친구 좀 픽업해주세요;chingu jom pigeopaejuseyo ;file:///android_asset/direction.png
+272;Directions & Taxi;Please wait;기다려주세요;gidaryeojuseyo ;file:///android_asset/direction.png
+273;Directions & Taxi;Receipt;영수증;yeongsujeung ;file:///android_asset/direction.png
+274;Directions & Taxi;Stop;멈춰주세요;meomchwojuseyo ;file:///android_asset/direction.png
+275;Directions & Taxi;Straight ahead;바로 앞이에요;baro apieyo;file:///android_asset/direction.png
+276;Directions & Taxi;Take me to airport;공항으로 가주세요;gonghangeuro gajuseyo ;file:///android_asset/direction.png
+277;Directions & Taxi;Take me to nearest subway station;가장 가까운 지하철 역으로 가주세요;gajang gakkaun jihacheol yeogeuro gajuseyo;file:///android_asset/direction.png
+278;Directions & Taxi;Turn left;좌회전 하세요;jwahoejeon haseyo ;file:///android_asset/direction.png
+279;Directions & Taxi;Turn right;우회전 하세요;uhoejeon haseyo ;file:///android_asset/direction.png
+280;Directions & Taxi;Use the meter;미터기 켜주세요;miteogi kyeojuseyo ;file:///android_asset/direction.png
+281;Directions & Taxi;We’ve arrived;도착했습니다;dochakaetseumnida ;file:///android_asset/direction.png
+282;Directions & Taxi;Where is ...;…는 어디에 있나요;...neun eodie innayo;file:///android_asset/direction.png
+283;Weather;autumn;가을;gaeul ;file:///android_asset/weather.png
+284;Weather;climate;기후;gihu ;file:///android_asset/weather.png
+285;Weather;cold;춥다;chupda ;file:///android_asset/weather.png
+286;Weather;fog;안개;angae ;file:///android_asset/weather.png
+287;Weather;hot;덥다;deopda ;file:///android_asset/weather.png
+288;Weather;humid;습하다;seupada ;file:///android_asset/weather.png
+289;Weather;overcast day;흐린 날;heurin nal ;file:///android_asset/weather.png
+290;Weather;pleasantly cool;시원하다;siwonhada ;file:///android_asset/weather.png
+291;Weather;rainbow;무지개;mujigae ;file:///android_asset/weather.png
+292;Weather;spring;봄;bom ;file:///android_asset/weather.png
+293;Weather;summer;여름;yeoreum ;file:///android_asset/weather.png
+294;Weather;sunny day;화창한 날;hwachanghan nal ;file:///android_asset/weather.png
+295;Weather;temperature;온도;ondo ;file:///android_asset/weather.png
+296;Weather;windy;바람 많음;baram maneum ;file:///android_asset/weather.png
+297;Weather;to rain ;비가 내릴 것으로;biga naeril geoseuro;file:///android_asset/weather.png
+298;Weather;to snow;눈이 내릴 것으로;nuni naeril geoseuro ;file:///android_asset/weather.png
+299;Weather;to thunder;천둥이 칠 것으로;cheondungi chil geoseuro;file:///android_asset/weather.png
+300;Weather;tornado;회오리바람;hoeoribaram ;file:///android_asset/weather.png
+301;Weather;typhoon/hurricane;태풍/허리케인;taepung/heorikein;file:///android_asset/weather.png
+302;Weather;weather;날씨;nalssi ;file:///android_asset/weather.png
+303;Weather;winter;겨울;gyeoul;file:///android_asset/weather.png
+304;Useful Adjective; tired;힘들다;himdeulda;file:///android_asset/adjective.png
+305;Useful Adjective;angry;화난다;hwananda ;file:///android_asset/adjective.png
+306;Useful Adjective;bad;나쁘다;nappeuda ;file:///android_asset/adjective.png
+307;Useful Adjective;big ;크다;keuda ;file:///android_asset/adjective.png
+308;Useful Adjective;busy;바쁘다;bappeuda ;file:///android_asset/adjective.png
+309;Useful Adjective;cheap;싸다;ssada;file:///android_asset/adjective.png
+310;Useful Adjective;clean;깨끗하다;kkaekkeutada ;file:///android_asset/adjective.png
+311;Useful Adjective;cold;춥다;chupda ;file:///android_asset/adjective.png
+312;Useful Adjective;convenient;편하다;pyeonhada ;file:///android_asset/adjective.png
+313;Useful Adjective;difficult;어렵다;eoryeopda ;file:///android_asset/adjective.png
+314;Useful Adjective;dirty;더럽다;deoreopda ;file:///android_asset/adjective.png
+315;Useful Adjective;easy;쉽다;swipda ;file:///android_asset/adjective.png
+316;Useful Adjective;expensive;비싸다;bissada ;file:///android_asset/adjective.png
+317;Useful Adjective;far;멀다;meolda ;file:///android_asset/adjective.png
+318;Useful Adjective;fast;빠르다;ppareuda ;file:///android_asset/adjective.png
+319;Useful Adjective;fat;뚱뚱하다;ttungttunghada ;file:///android_asset/adjective.png
+320;Useful Adjective;female;여성;yeoseong ;file:///android_asset/adjective.png
+321;Useful Adjective;good;좋다;jota ;file:///android_asset/adjective.png
+322;Useful Adjective;good-looking;잘생겼다/이쁘다;jalsaenggyeotda/ippeuda ;file:///android_asset/adjective.png
+323;Useful Adjective;happy ;행복하다;haengbokada ;file:///android_asset/adjective.png
+324;Useful Adjective;hot/warm;덥다/따듯하다;deopda/ttadeutada ;file:///android_asset/adjective.png
+325;Useful Adjective;hungry;배고프다;baegopeuda ;file:///android_asset/adjective.png
+326;Useful Adjective;interesting;흥미롭다;heungmiropda ;file:///android_asset/adjective.png
+327;Useful Adjective;little/few;작다/적다;jakda/jeokda ;file:///android_asset/adjective.png
+328;Useful Adjective;long;길다;gilda ;file:///android_asset/adjective.png
+329;Useful Adjective;male;남성;namseong;file:///android_asset/adjective.png
+330;Useful Adjective;much/many;많다;manta ;file:///android_asset/adjective.png
+331;Useful Adjective;near;근처;geuncheo ;file:///android_asset/adjective.png
+332;Useful Adjective;newspaper;신문;sinmun ;file:///android_asset/adjective.png
+333;Useful Adjective;"old (age, building, etc. )";오래됐다;oraedwaetda;file:///android_asset/adjective.png
+334;Useful Adjective;old (used/not new);중고다;junggoda ;file:///android_asset/adjective.png
+335;Useful Adjective;pretty;예쁘다;yeppeuda ;file:///android_asset/adjective.png
+336;Useful Adjective;sad;슬프다;seulpeuda;file:///android_asset/adjective.png
+337;Useful Adjective;short (height);작다/적다;jakda/jeokda;file:///android_asset/adjective.png
+338;Useful Adjective;short (length);짧다;jjalda ;file:///android_asset/adjective.png
+339;Useful Adjective;slow;느리다;neurida ;file:///android_asset/adjective.png
+340;Useful Adjective;small;작다/적다;jakda/jeokda ;file:///android_asset/adjective.png
+341;Useful Adjective;tall;크다;keuda ;file:///android_asset/adjective.png
+342;Useful Adjective;tasty (liquid);맛있다;masitda ;file:///android_asset/adjective.png
+343;Useful Adjective;tasty (solid food);맛있다;masitda ;file:///android_asset/adjective.png
+344;Useful Adjective;thin;얇다;yalda ;file:///android_asset/adjective.png
+345;Useful Adjective;ugly;못생겼다;motsaenggyeotda ;file:///android_asset/adjective.png
+346;Useful Adjective;young;어리다;eorida ;file:///android_asset/adjective.png
+347;Tech & Gadget;Bluetooth;블루투스;beullutuseu ;file:///android_asset/tech.png
+348;Tech & Gadget;cell phone;휴대폰;hyudaepon;file:///android_asset/tech.png
+349;Tech & Gadget;Cordless telephone;무선 전화기;museon jeonhwagi ;file:///android_asset/tech.png
+350;Tech & Gadget;Do you have an English version;영어 버전도 있나요;yeongeo beojeondo innayo ;file:///android_asset/tech.png
+351;Tech & Gadget;Duplexer;송수신 전화기;songsusin jeonhwagi ;file:///android_asset/tech.png
+352;Tech & Gadget;Earphone;이어폰;ieopon ;file:///android_asset/tech.png
+353;Tech & Gadget;Fax;팩스;paekseu ;file:///android_asset/tech.png
+354;Tech & Gadget;Hard drive;하드 드라이브;hadeu deuraibeu ;file:///android_asset/tech.png
+355;Tech & Gadget;Headphone with mic;마이크 달린 헤드폰;maikeu dallin hedeupon ;file:///android_asset/tech.png
+356;Tech & Gadget;Ink jet cartridge;잉크젯 카트리지;ingkeujet kateuriji ;file:///android_asset/tech.png
+357;Tech & Gadget;Ink jet printer;잉크젯 프린터;ingkeujet peurinteo ;file:///android_asset/tech.png
+358;Tech & Gadget;Keyboard;키보드;kibodeu ;file:///android_asset/tech.png
+359;Tech & Gadget;Laser printer;레이저 프린터;reijeo peurinteo;file:///android_asset/tech.png
+360;Tech & Gadget;Laser printer cartridge;레이저 프린터 카트리지;reijeo peurinteo kateuriji;file:///android_asset/tech.png
+361;Tech & Gadget;LCD monitor;LCD 모니터;LCD moniteo ;file:///android_asset/tech.png
+362;Tech & Gadget;Lens;렌즈;renjeu ;file:///android_asset/tech.png
+363;Tech & Gadget;Motherboard;마더보드;madeobodeu ;file:///android_asset/tech.png
+364;Tech & Gadget;Mouse;마우스;mauseu ;file:///android_asset/tech.png
+365;Tech & Gadget;Photo printer;사진 프린터;sajin peurinteo ;file:///android_asset/tech.png
+366;Tech & Gadget;Printer;프린터;peurinteo ;file:///android_asset/tech.png
+367;Tech & Gadget;RAM;RAM;RAM ;file:///android_asset/tech.png
+368;Tech & Gadget;Receipt;영수증;yeongsujeung ;file:///android_asset/tech.png
+369;Tech & Gadget;Scanner;스캐너;seukaeneo ;file:///android_asset/tech.png
+370;Tech & Gadget;SD/CF card reader;SD/CF 카드 리더기;SD/CF kadeu rideogi ;file:///android_asset/tech.png
+371;Tech & Gadget;SLR camera;SLR 카메라;SLR kamera ;file:///android_asset/tech.png
+372;Tech & Gadget;Software;소프트웨어;sopeuteuweeo ;file:///android_asset/tech.png
+373;Tech & Gadget;Video card;비디오 카드;bidio kadeu ;file:///android_asset/tech.png
+374;Tech & Gadget;Web camera;웹 카메라;wep kamera a;file:///android_asset/tech.png
+375;Tech & Gadget;Wide angle lens;광각 렌즈;gwanggak renjeu ;file:///android_asset/tech.png
+376;Tech & Gadget;Wireless router;무선 라우터;museon rauteo ;file:///android_asset/tech.png
+377;Study;book;책;chaek ;file:///android_asset/study.png
+378;Study;bookshelf;책장;chaekjang ;file:///android_asset/study.png
+379;Study;desk;책상;chaeksang ;file:///android_asset/study.png
+380;Study;lamp;등;deung ;file:///android_asset/study.png
+381;Study;magazine;매거진;maegeojin ;file:///android_asset/study.png
+382;Study;map;지도;jido ;file:///android_asset/study.png
+383;Study;newspaper;신문;sinmun ;file:///android_asset/study.png
+384;Study;study room;서재;seojae ;file:///android_asset/study.png
+385;Sports & Recreation;American football;풋볼;putbol ;file:///android_asset/sports.png
+386;Sports & Recreation;baseball;야구;yagu ;file:///android_asset/sports.png
+387;Sports & Recreation;basketball;농구;nonggu ;file:///android_asset/sports.png
+388;Sports & Recreation;bicycling;자전거 타기;jajeongeo tagi ;file:///android_asset/sports.png
+389;Sports & Recreation;classical music;클래식 음악;keullaesik eumak ;file:///android_asset/sports.png
+390;Sports & Recreation;concert;콘서트;konseoteu ;file:///android_asset/sports.png
+391;Sports & Recreation;golf;골프;golpeu ;file:///android_asset/sports.png
+392;Sports & Recreation;ice hockey;아이스 하키;aiseu haki ;file:///android_asset/sports.png
+393;Sports & Recreation;ice skating;아이스 스케이트;aiseu seukeiteu;file:///android_asset/sports.png
+394;Sports & Recreation;jogging;조깅;joging;file:///android_asset/sports.png
+395;Sports & Recreation;movie;영화;yeonghwa ;file:///android_asset/sports.png
+396;Sports & Recreation;museum;박물관;bangmulgwan ;file:///android_asset/sports.png
+397;Sports & Recreation;photography;사진;sajin ;file:///android_asset/sports.png
+398;Sports & Recreation;rock & roll;락 앤 롤;rak aen rol;file:///android_asset/sports.png
+399;Sports & Recreation;sailing;보트 타기;boteu tagi ;file:///android_asset/sports.png
+400;Sports & Recreation;skiing;스키;seuki ;file:///android_asset/sports.png
+401;Sports & Recreation;soccer;축구;chukgu ;file:///android_asset/sports.png
+402;Sports & Recreation;sports;스포츠;seupocheu ;file:///android_asset/sports.png
+403;Sports & Recreation;swimming;수영;suyeong ;file:///android_asset/sports.png
+404;Sports & Recreation;television;텔레비전;tellebijeon;file:///android_asset/sports.png
+405;Sports & Recreation;tennis;테니스;teniseu;file:///android_asset/sports.png
+406;Sports & Recreation;to dance;춤 추기;chum chugi ;file:///android_asset/sports.png
+407;Sports & Recreation;to sing;노래 부르기;norae bureugi ;file:///android_asset/sports.png
+408;Colors;black;검은색;geomeunsaek;file:///android_asset/colors.png
+409;Colors;blue;파란색; paransaek;file:///android_asset/colors.png
+410;Colors;brown;갈색; galsaek ;file:///android_asset/colors.png
+411;Colors;color;색깔;saekkkal ;file:///android_asset/colors.png
+412;Colors;dark purple;짙은 포도색;jiteun podosaek ;file:///android_asset/colors.png
+413;Colors;gold;금색;geumsaek ;file:///android_asset/colors.png
+414;Colors;green;초록색;choroksaek ;file:///android_asset/colors.png
+415;Colors;light purple/lavender;밝은 포도색/라벤더색;balgeun podosaek/rabendeosaek ;file:///android_asset/colors.png
+416;Colors;orange ;오렌지색;orenjisaek ;file:///android_asset/colors.png
+417;Colors;pink;핑크색;pingkeusaek ;file:///android_asset/colors.png
+418;Colors;purple;포도색;podosaek ;file:///android_asset/colors.png
+419;Colors;red;빨간색;ppalgansaek ;file:///android_asset/colors.png
+420;Colors;silver;은색;eunsaek ;file:///android_asset/colors.png
+421;Colors;white;하얀색;hayansaek ;file:///android_asset/colors.png
+422;Colors;yellow;노란색;noransaek;file:///android_asset/colors.png
+423;Clothings;belt;벨트;belteu ;file:///android_asset/clothing.png
+424;Clothings;clothes;옷;ot ;file:///android_asset/clothing.png
+425;Clothings;dress;드레스;deureseu ;file:///android_asset/clothing.png
+426;Clothings;eyeglasses ;안경;angyeong ;file:///android_asset/clothing.png
+427;Clothings;gloves ;장갑;janggap ;file:///android_asset/clothing.png
+428;Clothings;hat;모자;moja ;file:///android_asset/clothing.png
+429;Clothings;jeans;청바지;cheongbaji ;file:///android_asset/clothing.png
+430;Clothings;necktie;넥타이;nektai ;file:///android_asset/clothing.png
+431;Clothings;overcoat ;외투;oetu ;file:///android_asset/clothing.png
+432;Clothings;pants;바지;baji ;file:///android_asset/clothing.png
+433;Clothings;shirt/blouse;셔츠/블라우스;syeocheu/beullauseu ;file:///android_asset/clothing.png
+434;Clothings;shoes;신발;sinbal ;file:///android_asset/clothing.png
+435;Clothings;shorts;반바지;banbaji ;file:///android_asset/clothing.png
+436;Clothings;skirt;스커트;seukeoteu;file:///android_asset/clothing.png
+437;Clothings;sneakers;스니커즈; seunikeojeu;file:///android_asset/clothing.png
+438;Clothings;socks;양말;yangmal ;file:///android_asset/clothing.png
+439;Clothings;suit;양복;yangbok ;file:///android_asset/clothing.png
+440;Clothings;sweater;스웨터;seuweteo;file:///android_asset/clothing.png
+441;Clothings;top;웃옷;udot;file:///android_asset/clothing.png
+442;Clothings;T-shirt ;티셔츠;tisyeocheu;file:///android_asset/clothing.png
+443;Body  ;abdomen;배; bae ;file:///android_asset/body.png
+444;Body  ;arm;팔;pal ;file:///android_asset/body.png
+445;Body  ;back;등;deung ;file:///android_asset/body.png
+446;Body  ;beard/mustache;수염/콧수염;suyeom/kotsuyeom ;file:///android_asset/body.png
+447;Body  ;body;몸;mom ;file:///android_asset/body.png
+448;Body  ;buttocks;배꼽;baekkop ;file:///android_asset/body.png
+449;Body  ;chest;가슴;gaseum ;file:///android_asset/body.png
+450;Body  ;ear;귀;gwi ;file:///android_asset/body.png
+451;Body  ;eye;눈;nun ;file:///android_asset/body.png
+452;Body  ;eyebrow;눈썹;nunsseop ;file:///android_asset/body.png
+453;Body  ;eyelash;속눈썹;songnunsseop ;file:///android_asset/body.png
+454;Body  ;face;얼굴;eolgul ;file:///android_asset/body.png
+455;Body  ;finger;손가락;songarak ;file:///android_asset/body.png
+456;Body  ;foot;발;bal ;file:///android_asset/body.png
+457;Body  ;hair;머리카락;meorikarak ;file:///android_asset/body.png
+458;Body  ;hand;손;son ;file:///android_asset/body.png
+459;Body  ;head;머리카락;meorikarak ;file:///android_asset/body.png
+460;Body  ;knee;무릎;mureup ;file:///android_asset/body.png
+461;Body  ;leg;다리;dari ;file:///android_asset/body.png
+462;Body  ;lip;입술;ipsul ;file:///android_asset/body.png
+463;Body  ;mouth;입;ip ;file:///android_asset/body.png
+464;Body  ;nail;손톱;sontop ;file:///android_asset/body.png
+465;Body  ;neck;목;mok;file:///android_asset/body.png
+466;Body  ;nose;코; ko ;file:///android_asset/body.png
+467;Body  ;tongue;혀;hyeo;file:///android_asset/body.png
+468;Time of Day;1:00 A.M. ;오전 한 시;ojeon han si ;file:///android_asset/time.png
+469;Time of Day;1:05 P.M. ;오후 한 시 오 분;ohu han si o bun ;file:///android_asset/time.png
+470;Time of Day;10:30 A.M. ;오전 열 시 삼십 분;ojeon yeol si samsip bun ;file:///android_asset/time.png
+471;Time of Day;12:00 P.M. ;오후 열두 시;ohu yeoldu si ;file:///android_asset/time.png
+472;Time of Day;2:55 P.M. ;오후 두 시 오십오 분;ohu du si osibo bun ;file:///android_asset/time.png
+473;Time of Day;6:15 A.M. ;오전 여섯 시 십오 분;ojeon yeoseot si sibo bun;file:///android_asset/time.png
+474;Time of Day;8:15 P.M. ;오후 여덟 시 오 분;ohu yeodeol si o bun ;file:///android_asset/time.png
+475;Time of Day;9:45:50 P.M. ;오후 아홉 시 사십오 분 오십 초;ohu ahop si sasibo bun osip cho ;file:///android_asset/time.png
+476;Time of Day;midnight to early morning;자정에서 이른 아침까지;jajeongeseo ireun achimkkaji ;file:///android_asset/time.png
+477;Time of Day;early morning;이른 아침;ireun achim ;file:///android_asset/time.png
+478;Time of Day;morning (general);아침;achim ;file:///android_asset/time.png
+479;Time of Day;afternoon ;오후;ohu ;file:///android_asset/time.png
+480;Time of Day;evening/night;야간/밤;yagan/bam ;file:///android_asset/time.png
+481;Time of Day;fall short of/ minutes until ;분 전/까지;bun jeon/kkaji;file:///android_asset/time.png
+482;Time of Day;half hour ;삼십 분;samsip bun ;file:///android_asset/time.png
+483;Time of Day;minute;분 전/까지;bun jeon/kkaji ;file:///android_asset/time.png
+484;Time of Day;noon;점심;jeomsim ;file:///android_asset/time.png
+485;Time of Day;o'clock;시;si ;file:///android_asset/time.png
+486;Time of Day;quarter hour;15분;15bun ;file:///android_asset/time.png
+487;Time of Day;second;초;cho ;file:///android_asset/time.png
+488;Time - Days of the Week;Monday;월요일;woryoil ;file:///android_asset/week.png
+489;Time - Days of the Week;Tuesday;화요일;hwayoil ;file:///android_asset/week.png
+490;Time - Days of the Week;Wednesday;수요일;suyoil ;file:///android_asset/week.png
+491;Time - Days of the Week;Thursday;목요일;mogyoil ;file:///android_asset/week.png
+492;Time - Days of the Week;Friday;금요일;geumyoil ;file:///android_asset/week.png
+493;Time - Days of the Week;Saturday;토요일;toyoil ;file:///android_asset/week.png
+494;Time - Days of the Week;Sunday;일요일;iryoil ;file:///android_asset/week.png
+495;Time - Days of the Week;today;오늘;oneul ;file:///android_asset/week.png
+496;Time - Days of the Week;tomorrow;내일;naeil ;file:///android_asset/week.png
+497;Time - Days of the Week;yesterday;어제;eoje ;file:///android_asset/week.png
+498;Time - Days of the Week;day after tomorrow;내일 모레;naeil more ;file:///android_asset/week.png
+499;Time - Days of the Week;day before yesterday;그저께;geujeokke ;file:///android_asset/week.png
+500;Time - Days of the Week;last Monday (last week);지난주 월요일;jinanju woryoil;file:///android_asset/week.png
+501;Time - Days of the Week;last Monday (this week);이번 월요일;ibeon woryoil ;file:///android_asset/week.png
+502;Time - Days of the Week;next Monday;다음주 월요일;daeumju woryoil ;file:///android_asset/week.png
+503;Time - Days of the Week;next Saturday (next week);다음주 토요일;daeumju toyoil ;file:///android_asset/week.png
+504;Time - Days of the Week;next Saturday (this week);이번 토요일;ibeon toyoil ;file:///android_asset/week.png
+505;Time - Days of the Week;this Monday (this week);이번 월요일;ibeon woryoil ;file:///android_asset/week.png
+506;Time - Months of the Year;January;1월;1wol ;file:///android_asset/months.png
+507;Time - Months of the Year;February;2월;2wol ;file:///android_asset/months.png
+508;Time - Months of the Year;March;3월;3wol ;file:///android_asset/months.png
+509;Time - Months of the Year;April;4월;4wol ;file:///android_asset/months.png
+510;Time - Months of the Year;May;5월;5wol ;file:///android_asset/months.png
+511;Time - Months of the Year;June;6월;6wol ;file:///android_asset/months.png
+512;Time - Months of the Year;July;7월;7wol ;file:///android_asset/months.png
+513;Time - Months of the Year;August;8월;8wol ;file:///android_asset/months.png
+514;Time - Months of the Year;September;9월;9wol;file:///android_asset/months.png
+515;Time - Months of the Year;October;10월;10wol ;file:///android_asset/months.png
+516;Time - Months of the Year;November;11월;11wol ;file:///android_asset/months.png
+517;Time - Months of the Year;December;12월;12wol ;file:///android_asset/months.png
+518;Time - Months of the Year;last January (last year);지난해 1월;jinanhae 1wol ;file:///android_asset/months.png
+519;Time - Months of the Year;last January (this year);올해 1월;olhae 1wol ;file:///android_asset/months.png
+520;Time - Months of the Year;last month;지난달;jinandal ;file:///android_asset/months.png
+521;Time - Months of the Year;month after next;다음 다음 달;daeum daeum dal ;file:///android_asset/months.png
+522;Time - Months of the Year;month before last;지지난달;jijinandal ;file:///android_asset/months.png
+523;Time - Months of the Year;next month;다음달;daeumdal ;file:///android_asset/months.png
+524;Time - Months of the Year;this month;이번달;ibeondal ;file:///android_asset/months.png
+525;Time - Years;last year;작년;jangnyeon ;file:///android_asset/years.png
+526;Time - Years;next year;내년;naenyeon ;file:///android_asset/years.png
+527;Time - Years;this year;올해;olhae ;file:///android_asset/years.png
+528;Time - Years;year after next;내후년;naehunyeon ;file:///android_asset/years.png
+529;Time - Years;year before last;지지난해;jijinanhae ;file:///android_asset/years.png
+530;Occupations;accountant ;회계사;hoegyesa ;file:///android_asset/occupations.png
+531;Occupations;actor/actress;배우/여배우;baeu/yeobaeu ;file:///android_asset/occupations.png
+532;Occupations;artist/painter ;예술가/미술가;yesulga/misulga ;file:///android_asset/occupations.png
+533;Occupations;athlete;운동 선수;undong seonsu ;file:///android_asset/occupations.png
+534;Occupations;bellhop;사환;sahwan ;file:///android_asset/occupations.png
+535;Occupations;chef;요리사;yorisa ;file:///android_asset/occupations.png
+536;Occupations;dentist;치과의사;chigwauisa ;file:///android_asset/occupations.png
+537;Occupations;doorman;수위;suwi ;file:///android_asset/occupations.png
+538;Occupations;driver;운전 기사;unjeon gisa ;file:///android_asset/occupations.png
+539;Occupations;engineer;기술자;gisulja ;file:///android_asset/occupations.png
+540;Occupations;farmer;농부;nongbu ;file:///android_asset/occupations.png
+541;Occupations;government employee ;공무원;gongmuwon ;file:///android_asset/occupations.png
+542;Occupations;hairdresser;미용사;miyongsa ;file:///android_asset/occupations.png
+543;Occupations;housewife ;주부;jubu ;file:///android_asset/occupations.png
+544;Occupations;janitor;관리인;gwalliin ;file:///android_asset/occupations.png
+545;Occupations;Lawyer;변호사;byeonhosa;file:///android_asset/occupations.png
+546;Occupations;musician;음악가;eumakga ;file:///android_asset/occupations.png
+547;Occupations;nurse;간호사;ganhosa ;file:///android_asset/occupations.png
+548;Occupations;owner of business;사업가;saeopga;file:///android_asset/occupations.png
+549;Occupations;physician;의사;uisa ;file:///android_asset/occupations.png
+550;Occupations;plumber and electrician;배관공 및 전기 기사;baegwangong mit jeongi gisa ;file:///android_asset/occupations.png
+551;Occupations;policeman ;경찰관;gyeongchalgwan ;file:///android_asset/occupations.png
+552;Occupations;professor;교수;gyosu ;file:///android_asset/occupations.png
+553;Occupations;programmer;프로그래머;peurogeuraemeo ;file:///android_asset/occupations.png
+554;Occupations;receptionist;접수 담당자;jeopsu damdangja ;file:///android_asset/occupations.png
+555;Occupations;secretary ;비서;biseo ;file:///android_asset/occupations.png
+556;Occupations;security guard;경비원;gyeongbiwon ;file:///android_asset/occupations.png
+557;Occupations;soldier;군인;gunin ;file:///android_asset/occupations.png
+558;Occupations;store attendant ;점원;jeomwon;file:///android_asset/occupations.png
+559;Occupations;surgeon;외과의;oegwaui ;file:///android_asset/occupations.png
+560;Occupations;teacher ;교사;gyosa ;file:///android_asset/occupations.png
+561;Occupations;veterinarian;수의사;suuisa ;file:///android_asset/occupations.png
+562;Occupations;waiter/waitress;웨이터/웨이트리스;weiteo/weiteuriseu ;file:///android_asset/occupations.png
+563;Occupations;worker;노동자;nodongja ;file:///android_asset/occupations.png
+564;Occupations;writer/author;작가;jakga ;file:///android_asset/occupations.png
+565;Employment;benefits ;혜택;hyetaek ;file:///android_asset/employment.png
+566;Employment;between jobs;실직;siljik ;file:///android_asset/employment.png
+567;Employment;employed/employment ;취직;chwijik ;file:///android_asset/employment.png
+568;Employment;interview;인터뷰;inteobyu ;file:///android_asset/employment.png
+569;Employment;pension;연금;yeongeum;file:///android_asset/employment.png
+570;Employment;probation ;수습; suseup ;file:///android_asset/employment.png
+571;Employment;raise;인상;insang ;file:///android_asset/employment.png
+572;Employment;salary deduction;감봉;gambong ;file:///android_asset/employment.png
+573;Employment;to apply for job;입사 지원 하려면;ipsa jiwon haryeomyeon;file:///android_asset/employment.png
+574;Employment;to demote;강등하려면;gangdeungharyeomyeon ;file:///android_asset/employment.png
+575;Employment;to fire;해고하려면;haegoharyeomyeon ;file:///android_asset/employment.png
+576;Employment;to promote;승진하려면;seungjinharyeomyeon ;file:///android_asset/employment.png
+577;Employment;to retire;은퇴하려면;euntoeharyeomyeon ;file:///android_asset/employment.png
+578;Employment;unemployed/to lose job;해고;haego ;file:///android_asset/employment.png
+579;House;air conditioning ;에어컨;eeokeon ;file:///android_asset/house.png
+580;House;apartment;아파트;apateu ;file:///android_asset/house.png
+581;House;basement;지하;jiha ;file:///android_asset/house.png
+582;House;door;문;mun ;file:///android_asset/house.png
+583;House;electric light;전기불;jeongibul ;file:///android_asset/house.png
+584;House;floor/storey;층;cheung ;file:///android_asset/house.png
+585;House;heat;난방;nanbang;file:///android_asset/house.png
+586;House;home;집;jip ;file:///android_asset/house.png
+587;House;house;집;jip ;file:///android_asset/house.png
+588;House;stairs;계단;gyedan ;file:///android_asset/house.png
+589;House;wall;벽;byeok ;file:///android_asset/house.png
+590;House;window;창문;changmun ;file:///android_asset/house.png
+591;House;yard;마당;madang;file:///android_asset/house.png
+592;House;sofa;소파;sopa ;file:///android_asset/house.png
+593;House;television;텔레비전;tellebijeon;file:///android_asset/house.png
+594;House - Bathroom ;bath tub;목욕탕;mogyoktang ;file:///android_asset/bathroom.png
+595;House - Bathroom ;bathroom tissue;화장실 휴지;hwajangsil hyuji ;file:///android_asset/bathroom.png
+596;House - Bathroom ;bathroom ;화장실 휴지;hwajangsil hyuji ;file:///android_asset/bathroom.png
+597;House - Bathroom ;comb/hairbrush;빗/헤어브러시;bit/heeobeureosi ;file:///android_asset/bathroom.png
+598;House - Bathroom ;Conditioner;컨디셔너;keondisyeoneo ;file:///android_asset/bathroom.png
+599;House - Bathroom ;Diapers;기저귀;gijeogwi ;file:///android_asset/bathroom.png
+600;House - Bathroom ;dryer;드라이어;deuraieo ;file:///android_asset/bathroom.png
+601;House - Bathroom ;faucet;수도꼭지;sudokkokji ;file:///android_asset/bathroom.png
+602;House - Bathroom ;Lotion;로션;rosyeon;file:///android_asset/bathroom.png
+603;House - Bathroom ;mirror ;거울; geoul ;file:///android_asset/bathroom.png
+604;House - Bathroom ;perfumed soap;향이나는 비누;hyanginaneun binu ;file:///android_asset/bathroom.png
+605;House - Bathroom ;Sanitary pad;생리대;saengnidae ;file:///android_asset/bathroom.png
+606;House - Bathroom ;Shampoo;샴푸;syampu ;file:///android_asset/bathroom.png
+607;House - Bathroom ;Shaving blade;면도날;myeondonal ;file:///android_asset/bathroom.png
+608;House - Bathroom ;Shoe polish;구두 약;gudu yak ;file:///android_asset/bathroom.png
+609;House - Bathroom ;sink/washbasin;싱크대/세면기;singkeudae/semyeongi ;file:///android_asset/bathroom.png
+610;House - Bathroom ;tissue ;티슈;tisyu ;file:///android_asset/bathroom.png
+611;House - Bathroom ;toilet;변기;byeongi ;file:///android_asset/bathroom.png
+612;House - Bathroom ;Toothbrush;칫솔;chitsol ;file:///android_asset/bathroom.png
+613;House - Bathroom ;Toothpaste;치약;chiyak ;file:///android_asset/bathroom.png
+614;House - Bathroom ;towel;수건;sugeon ;file:///android_asset/bathroom.png
+615;House - Bathroom ;washer;세탁기;setakgi ;file:///android_asset/bathroom.png
+616;House - Bedroom;alarm clock;알람 시계;allam sigye ;file:///android_asset/bedroom.png
+617;House - Bedroom;bed;침대;chimdae ;file:///android_asset/bedroom.png
+618;House - Bedroom;bed sheet;침대보;chimdaebo ;file:///android_asset/bedroom.png
+619;House - Bedroom;bedroom;침실;chimsil ;file:///android_asset/bedroom.png
+620;House - Bedroom;blanket;담요;damyo ;file:///android_asset/bedroom.png
+621;House - Bedroom;comforter ;이불;ibul ;file:///android_asset/bedroom.png
+622;House - Bedroom;pajama;잠옷;jamot ;file:///android_asset/bedroom.png
+623;House - Bedroom;pillow;베개;begae ;file:///android_asset/bedroom.png
+624;House - Bedroom;wardrobe;옷장;otjang;file:///android_asset/bedroom.png
+625;House - Dining room;bowl;그릇;geureut ;file:///android_asset/dining.png
+626;House - Dining room;chair;의자;uija ;file:///android_asset/dining.png
+627;House - Dining room;chopsticks;젓가락;jeotgarak ;file:///android_asset/dining.png
+628;House - Dining room;cup;컵;keop ;file:///android_asset/dining.png
+629;House - Dining room;dining room;부엌;bueok ;file:///android_asset/dining.png
+630;House - Dining room;dining table;식탁;siktak ;file:///android_asset/dining.png
+631;House - Dining room;napkin;냅킨;naepkin;file:///android_asset/dining.png
+632;House - Dining room;plate;접시;jeopsi ;file:///android_asset/dining.png
+633;House - Kitchen;coffee maker;커피 메이커;keopi meikeo ;file:///android_asset/kitchen.png
+634;House - Kitchen;kitchen knife;식칼;sikkal ;file:///android_asset/kitchen.png
+635;House - Kitchen;kitchen ;부엌;bueok ;file:///android_asset/kitchen.png
+636;House - Kitchen;microwave;마이크로웨이브;maikeuroweibeu;file:///android_asset/kitchen.png
+637;House - Kitchen;refrigerator;냉장고;naengjanggo ;file:///android_asset/kitchen.png
+638;House - Kitchen;stove;스토브;seutobeu ;file:///android_asset/kitchen.png
+639;House - Kitchen;telephone;전화기;jeonhwagi ;file:///android_asset/kitchen.png
+640;House - Kitchen;wok/pot;웍/냄비;wok/naembi ;file:///android_asset/kitchen.png
+641;Cooking methods;boil ;끓이기;kkeurigi ;file:///android_asset/cooking.png
+642;Cooking methods;cube;깍둑썰기;kkakduksseolgi ;file:///android_asset/cooking.png
+643;Cooking methods;deep fry;튀기기; twigigi;file:///android_asset/cooking.png
+644;Cooking methods;diced;깍둑썰기;kkakduksseolgi;file:///android_asset/cooking.png
+645;Cooking methods;piece;조각내기;jogangnaegi;file:///android_asset/cooking.png
+646;Cooking methods;shredded;잘게 썰기;jalge sseolgi ;file:///android_asset/cooking.png
+647;Cooking methods;sliced;썰기;sseolgi ;file:///android_asset/cooking.png
+648;Cooking methods;steam;찌기;jjigi ;file:///android_asset/cooking.png
+649;Cooking methods;stir fry;볶기;bokgi;file:///android_asset/cooking.png
+650;Food Basics;aluminum foil;알류미늄 호일;allyuminyum hoil ;file:///android_asset/foodbasics.png
+651;Food Basics;bread;빵;ppang ;file:///android_asset/foodbasics.png
+652;Food Basics;breakfast;아침;achim ;file:///android_asset/foodbasics.png
+653;Food Basics;burger;버거;beogeo ;file:///android_asset/foodbasics.png
+654;Food Basics;butter;버터;beoteo ;file:///android_asset/foodbasics.png
+655;Food Basics;cake;케이크;keikeu ;file:///android_asset/foodbasics.png
+656;Food Basics;candy;캔디;kaendi ;file:///android_asset/foodbasics.png
+657;Food Basics;cheese;치즈;chijeu ;file:///android_asset/foodbasics.png
+658;Food Basics;Chinese food;중국 음식;jungguk eumsik ;file:///android_asset/foodbasics.png
+659;Food Basics;chocolate;초콜렛;chokollet;file:///android_asset/foodbasics.png
+660;Food Basics;cooked rice;밥;bap ;file:///android_asset/foodbasics.png
+661;Food Basics;cookie/cracker;쿠키/크래커;kuki/keuraekeo ;file:///android_asset/foodbasics.png
+662;Food Basics;dessert;디저트;dijeoteu ;file:///android_asset/foodbasics.png
+663;Food Basics;dinner;저녁;jeonyeok ;file:///android_asset/foodbasics.png
+664;Food Basics;dumpling;만두;mandu ;file:///android_asset/foodbasics.png
+665;Food Basics;food (formal);음식;eumsik ;file:///android_asset/foodbasics.png
+666;Food Basics;French fries;프렌치 프라이;peurenchi peurai ;file:///android_asset/foodbasics.png
+667;Food Basics;fruit;과일;gwail ;file:///android_asset/foodbasics.png
+668;Food Basics;hot dog;핫도그;hatdogeu ;file:///android_asset/foodbasics.png
+669;Food Basics;hot pot;핫 포트;hat poteu ;file:///android_asset/foodbasics.png
+670;Food Basics;ice cream;아이스크림;aiseukeurim ;file:///android_asset/foodbasics.png
+671;Food Basics;lunch;점심;jeomsim ;file:///android_asset/foodbasics.png
+672;Food Basics;noodle ;국수;guksu ;file:///android_asset/foodbasics.png
+673;Food Basics;salad;샐러드;saelleodeu ;file:///android_asset/foodbasics.png
+674;Food Basics;sandwich;샌드위치;saendeuwichi ;file:///android_asset/foodbasics.png
+675;Food Basics;snack;스낵;seunaek ;file:///android_asset/foodbasics.png
+676;Food Basics;soup;수프;supeu ;file:///android_asset/foodbasics.png
+677;Food Basics;vegetable;야채;yachae ;file:///android_asset/foodbasics.png
+678;Food Basics;wonton;완당;wandang;file:///android_asset/foodbasics.png
+679;Grocery - Dairy;Butter;버터;beoteo ;file:///android_asset/dairy.png
+680;Grocery - Dairy;Cheese;치즈;chijeu;file:///android_asset/dairy.png
+681;Grocery - Dairy;Cream;크림;keurim ;file:///android_asset/dairy.png
+682;Grocery - Dairy;Fresh cream;생크림;saengkeurim ;file:///android_asset/dairy.png
+683;Grocery - Dairy;Fresh milk;우유;uyu;file:///android_asset/dairy.png
+684;Grocery - Dairy;Ice cream;아이스크림;aiseukeurim ;file:///android_asset/dairy.png
+685;Grocery - Dairy;Low fat milk;저지방 우유;jeojibang uyu ;file:///android_asset/dairy.png
+686;Grocery - Dairy;Organic milk;유기농 우유;yuginong uyu ;file:///android_asset/dairy.png
+687;Grocery - Dairy;Organic yohgurt;유기농 요거트;yuginong yogeoteu ;file:///android_asset/dairy.png
+688;Grocery - Dairy;Soya Milk;두유;duyu ;file:///android_asset/dairy.png
+689;Grocery - Dairy;Yohgurt;요거트;yogeoteu ;file:///android_asset/dairy.png
+690;Grocery - Dry goods;Baking soda;베이킹 소다;beiking soda ;file:///android_asset/drygoods.png
+691;Grocery - Dry goods;Brown rice;현미;hyeonmi ;file:///android_asset/drygoods.png
+692;Grocery - Dry goods;Brown sugar;흑설탕;heukseoltang ;file:///android_asset/drygoods.png
+693;Grocery - Dry goods;Corn starch;옥수수 전분;oksusu jeonbun ;file:///android_asset/drygoods.png
+694;Grocery - Dry goods;Egg noodles;계란 국수;gyeran guksu ;file:///android_asset/drygoods.png
+695;Grocery - Dry goods;Flour;밀가루;milgaru;file:///android_asset/drygoods.png
+696;Grocery - Dry goods;Jasmine rice;재스민 쌀;jaeseumin ssal;file:///android_asset/drygoods.png
+697;Grocery - Dry goods;Kidney beans;강낭콩;gangnangkong ;file:///android_asset/drygoods.png
+698;Grocery - Dry goods;Oats;귀리;gwiri ;file:///android_asset/drygoods.png
+699;Grocery - Dry goods;Organic rice;유기농 쌀;yuginong ssal ;file:///android_asset/drygoods.png
+700;Grocery - Dry goods;Pasta;파스타;paseuta ;file:///android_asset/drygoods.png
+701;Grocery - Dry goods;Rice;쌀;ssal ;file:///android_asset/drygoods.png
+702;Grocery - Dry goods;Rice noodles;쌀 국수;ssal guksu ;file:///android_asset/drygoods.png
+703;Grocery - Dry goods;Salt;소금;sogeum ;file:///android_asset/drygoods.png
+704;Grocery - Dry goods;Sugar;설탕;seoltang ;file:///android_asset/drygoods.png
+705;Grocery - Dry goods;Whole wheat;통밀;tongmil;file:///android_asset/drygoods.png
+706;Grocery - Fish & Meat;Bacon;베이컨;beikeon ;file:///android_asset/meat.png
+707;Grocery - Fish & Meat;Beef;쇠고기;soegogi ;file:///android_asset/meat.png
+708;Grocery - Fish & Meat;Beef and mutton;소고기와 양고기;sogogiwa yanggogi ;file:///android_asset/meat.png
+709;Grocery - Fish & Meat;Beef minced;쇠고기 분쇄육;soegogi bunswaeyuk;file:///android_asset/meat.png
+710;Grocery - Fish & Meat;Beef steak;쇠고기 스테이크;soegogi ;file:///android_asset/meat.png
+711;Grocery - Fish & Meat;Chicken;닭;seuteikeu ;file:///android_asset/meat.png
+712;Grocery - Fish & Meat;Chicken breast;닭 가슴;dak dak gaseum ;file:///android_asset/meat.png
+713;Grocery - Fish & Meat;Cod;대구;daegu ;file:///android_asset/meat.png
+714;Grocery - Fish & Meat;crab;게;ge ;file:///android_asset/meat.png
+715;Grocery - Fish & Meat;duck;오리;ori ;file:///android_asset/meat.png
+716;Grocery - Fish & Meat;egg (from a chicken);달걀(닭);dalgyal(dak) ;file:///android_asset/meat.png
+717;Grocery - Fish & Meat;Fish;생선;saengseon ;file:///android_asset/meat.png
+718;Grocery - Fish & Meat;Ham;햄;haem ;file:///android_asset/meat.png
+719;Grocery - Fish & Meat;Lamb;양고기;yanggogi ;file:///android_asset/meat.png
+720;Grocery - Fish & Meat;Lamb leg;양 다리 고기;yang dari gogi ;file:///android_asset/meat.png
+721;Grocery - Fish & Meat;Lean meat;정육;jeongyuk ;file:///android_asset/meat.png
+722;Grocery - Fish & Meat;lobster;바닷가재;badatgajae ;file:///android_asset/meat.png
+723;Grocery - Fish & Meat;meat;고기;gogi ;file:///android_asset/meat.png
+724;Grocery - Fish & Meat;mutton;양고기;yanggogi ;file:///android_asset/meat.png
+725;Grocery - Fish & Meat;Peking duck;북경 오리;bukgyeong ori ;file:///android_asset/meat.png
+726;Grocery - Fish & Meat;Pork;돼지고기;dwaejigogi ;file:///android_asset/meat.png
+727;Grocery - Fish & Meat;Salami;살라미;sallami ;file:///android_asset/meat.png
+728;Grocery - Fish & Meat;Salmon;연어;yeoneo ;file:///android_asset/meat.png
+729;Grocery - Fish & Meat;Sausages;소시지;sosiji ;file:///android_asset/meat.png
+730;Grocery - Fish & Meat;seafood;해산물;haesanmul ;file:///android_asset/meat.png
+731;Grocery - Fish & Meat;shrimp;새우;saeu ;file:///android_asset/meat.png
+732;Grocery - Fish & Meat;squid;오징어;ojingeo;file:///android_asset/meat.png
+733;Grocery - Fruits;Apple;사과;sagwa;file:///android_asset/fruit.png
+734;Grocery - Fruits;Avocado;아보카도;abokado ;file:///android_asset/fruit.png
+735;Grocery - Fruits;banana;바나나;banana ;file:///android_asset/fruit.png
+736;Grocery - Fruits;fruit juice;과일 주스;gwail juseu ;file:///android_asset/fruit.png
+737;Grocery - Fruits;grape;포도;podo ;file:///android_asset/fruit.png
+738;Grocery - Fruits;Grapes;포도;podo ;file:///android_asset/fruit.png
+739;Grocery - Fruits;Grapes - seedless;씨 없는 포도;ssi eomneun podo ;file:///android_asset/fruit.png
+740;Grocery - Fruits;Honey melon;감로멜론;gamnomellon  ;file:///android_asset/fruit.png
+741;Grocery - Fruits;"lemon, lime";"레몬, 라임";"remon, raim ";file:///android_asset/fruit.png
+742;Grocery - Fruits;lychee;여지;yeoji ;file:///android_asset/fruit.png
+743;Grocery - Fruits;mango;망고;manggo ;file:///android_asset/fruit.png
+744;Grocery - Fruits;Orange;오렌지;orenji ;file:///android_asset/fruit.png
+745;Grocery - Fruits;peach;복숭아;boksunga ;file:///android_asset/fruit.png
+746;Grocery - Fruits;Pear;배;bae;file:///android_asset/fruit.png
+747;Grocery - Fruits;Persimmon;감; gam ;file:///android_asset/fruit.png
+748;Grocery - Fruits;pineapple;파인애플;painaepeul ;file:///android_asset/fruit.png
+749;Grocery - Fruits;plum;자두;jadu ;file:///android_asset/fruit.png
+750;Grocery - Fruits;Ripe;익은;igeun ;file:///android_asset/fruit.png
+751;Grocery - Fruits;Sour (taste);신;sin;file:///android_asset/fruit.png
+752;Grocery - Fruits;star fruit;스타 푸르트; seuta pureuteu;file:///android_asset/fruit.png
+753;Grocery - Fruits;strawberry;딸기; ttalgi ;file:///android_asset/fruit.png
+754;Grocery - Fruits;Sweet (taste);단;dan ;file:///android_asset/fruit.png
+755;Grocery - Fruits;tangerine;탄제린;tanjerin ;file:///android_asset/fruit.png
+756;Grocery - Fruits;Watermelon;수박;subak;file:///android_asset/fruit.png
+757;Grocery - Spices & Preserves;Basil;바실;basil ;file:///android_asset/spices.png
+758;Grocery - Spices & Preserves;Bay leaf;월계수 잎;wolgyesu ip ;file:///android_asset/spices.png
+759;Grocery - Spices & Preserves;cooking oil;요리용 기름;yoriyong gireum ;file:///android_asset/spices.png
+760;Grocery - Spices & Preserves;cooking wine;요리용 와인;yoriyong wain;file:///android_asset/spices.png
+761;Grocery - Spices & Preserves;Corn oil;옥수수 기름; oksusu gireum ;file:///android_asset/spices.png
+762;Grocery - Spices & Preserves;Garlic powder;마늘 가루;maneul garu ;file:///android_asset/spices.png
+763;Grocery - Spices & Preserves;Honey;꿀;kkul;file:///android_asset/spices.png
+764;Grocery - Spices & Preserves;Jam;잼;jaem ;file:///android_asset/spices.png
+765;Grocery - Spices & Preserves;MSG;MSG;MSG ;file:///android_asset/spices.png
+766;Grocery - Spices & Preserves;Olive oil;올리브 기름;ollibeu gireum ;file:///android_asset/spices.png
+767;Grocery - Spices & Preserves;Oregano;오레가노;oregano ;file:///android_asset/spices.png
+768;Grocery - Spices & Preserves;Oyster sauce;굴 소스;gul soseu ;file:///android_asset/spices.png
+769;Grocery - Spices & Preserves;Paprika;파프리카;papeurika ;file:///android_asset/spices.png
+770;Grocery - Spices & Preserves;Pepper - black;후추;huchu ;file:///android_asset/spices.png
+771;Grocery - Spices & Preserves;Pepper - white;백후추;baekuchu ;file:///android_asset/spices.png
+772;Grocery - Spices & Preserves;salt;소금;sogeum ;file:///android_asset/spices.png
+773;Grocery - Spices & Preserves;seasoning;양념;yangnyeom ;file:///android_asset/spices.png
+774;Grocery - Spices & Preserves;Sesame sauce;참깨 소스;chamkkae soseu;file:///android_asset/spices.png
+775;Grocery - Spices & Preserves;Soy sauce;간장;ganjang ;file:///android_asset/spices.png
+776;Grocery - Spices & Preserves;Sugar;설탕;seoltang ;file:///android_asset/spices.png
+777;Grocery - Spices & Preserves;Tomato sauce;토마토 소스;tomato soseu ;file:///android_asset/spices.png
+778;Grocery - Spices & Preserves;Vanilla;바닐라;banilla ;file:///android_asset/spices.png
+779;Grocery - Spices & Preserves;Vanilla stick;바닐라 스틱;banilla seutik ;file:///android_asset/spices.png
+780;Grocery - Spices & Preserves;vinegar;식초;sikcho;file:///android_asset/spices.png
+781;Vegetables;bok choi;청경채;cheonggyeongchae ;file:///android_asset/vegetables.png
+782;Vegetables;bean curd/tofu;콩 비지 / 두부;kong biji / dubu;file:///android_asset/vegetables.png
+783;Vegetables;Broccoli;브로콜리;beurokolli ;file:///android_asset/vegetables.png
+784;Vegetables;Cabbage;배추;baechu ;file:///android_asset/vegetables.png
+785;Vegetables;Carrot;당근;danggeun ;file:///android_asset/vegetables.png
+786;Vegetables;Cherry tomato;체리 토마토;cheri tomato ;file:///android_asset/vegetables.png
+787;Vegetables;Chinese cabbage/Napa cabbage;중국 배추 / 나파 배추;jungguk baechu / napa baechu ;file:///android_asset/vegetables.png
+788;Vegetables;Corn;옥수수;oksusu ;file:///android_asset/vegetables.png
+789;Vegetables;cucumber;오이;oi ;file:///android_asset/vegetables.png
+790;Vegetables;Egg plant;가지;gaji ;file:///android_asset/vegetables.png
+791;Vegetables;French beans;강낭콩;gangnangkong;file:///android_asset/vegetables.png
+792;Vegetables;Garlic;마늘;maneul ;file:///android_asset/vegetables.png
+793;Vegetables;garlic;마늘;maneul ;file:///android_asset/vegetables.png
+794;Vegetables;ginger;생강;saenggang ;file:///android_asset/vegetables.png
+795;Vegetables;green pepper;피망;pimang ;file:///android_asset/vegetables.png
+796;Vegetables;green vegetable;초록색 야채;choroksaek yachae ;file:///android_asset/vegetables.png
+797;Vegetables;hot pepper;고추;gochu ;file:///android_asset/vegetables.png
+798;Vegetables;Gailan;카이란;kairan ;file:///android_asset/vegetables.png
+799;Vegetables;Leek;부추;buchu ;file:///android_asset/vegetables.png
+800;Vegetables;Lettuce;상추;sangchu ;file:///android_asset/vegetables.png
+801;Vegetables;Long beans;줄콩;julkong ;file:///android_asset/vegetables.png
+802;Vegetables;Mushroom;버섯;beoseot ;file:///android_asset/vegetables.png
+803;Vegetables;Onion;양파;yangpa ;file:///android_asset/vegetables.png
+804;Vegetables;potato;감자;gamja ;file:///android_asset/vegetables.png
+805;Vegetables;radish;무;mu ;file:///android_asset/vegetables.png
+806;Vegetables;scallion;봄 양파;bom yangpa ;file:///android_asset/vegetables.png
+807;Vegetables;Spinach;시금치;sigeumchi ;file:///android_asset/vegetables.png
+808;Vegetables;Spring onion;봄 양파;bom yangpa ;file:///android_asset/vegetables.png
+809;Vegetables;Squash;스쿼시;seukwosi;file:///android_asset/vegetables.png
+810;Vegetables;string bean;줄콩;julkong ;file:///android_asset/vegetables.png
+811;Vegetables;tomato;토마토;tomato ;file:///android_asset/vegetables.png
+812;Vegetables;Sweet Potato;고구마;goguma;file:///android_asset/vegetables.png
