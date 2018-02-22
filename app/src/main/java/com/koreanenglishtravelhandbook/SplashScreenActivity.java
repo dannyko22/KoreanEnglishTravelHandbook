@@ -15,23 +15,23 @@ import com.google.android.gms.ads.InterstitialAd;
 
 public class SplashScreenActivity extends AppCompatActivity {
 
-    private static int SPLASH_TIME_OUT = 0;
+    private static int SPLASH_TIME_OUT = 3500;
     InterstitialAd interstitial;
     AdRequest adRequest;
 
     @Override
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
-        //initializeAdNetwork();
+        initializeAdNetwork();
 
-//        interstitial.setAdListener(new AdListener() {
-//            @Override
-//            public void onAdClosed() {
-//                Intent i = new Intent(SplashScreenActivity.this, MainActivity.class);
-//                startActivity(i);
-//
-//            }
-//        });
+        interstitial.setAdListener(new AdListener() {
+            @Override
+            public void onAdClosed() {
+                Intent i = new Intent(SplashScreenActivity.this, MainActivity.class);
+                startActivity(i);
+
+            }
+        });
 
         new Handler().postDelayed(new Runnable() {
 

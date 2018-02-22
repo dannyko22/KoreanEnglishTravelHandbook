@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity
         setupCategoryListView();
 
         isStoragePermissionGranted();
-        //initializeAdNetwork();
+        initializeAdNetwork();
 
         setMaxVolume();
 

@@ -53,7 +53,7 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         //travelPhrase.setTypeface(null, Typeface.BOLD);
         travelPhrase.setTextColor(Color.BLACK);
 
-        TextView homePhrase = (TextView) row.findViewById(R.id.homePhraseTextView);
+        final TextView homePhrase = (TextView) row.findViewById(R.id.homePhraseTextView);
         final TextView pronounciation = (TextView) row.findViewById(R.id.pronounciationTextView);
 
 
@@ -61,9 +61,9 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         pronounciation.setTextColor(Color.rgb(20, 99, 255));
         travelPhrase.setTextColor(Color.rgb(153, 26, 0));
 
-        travelPhrase.setText("▶ " + (CharSequence) travelPhraseData.get(position).getTravelPhrase());
-        homePhrase.setText((CharSequence) travelPhraseData.get(position).getHomePhrase());
-        pronounciation.setText("▶ " + (CharSequence) travelPhraseData.get(position).getPronounciation());
+        travelPhrase.setText("   ▶ " + (CharSequence) travelPhraseData.get(position).getTravelPhrase());
+        homePhrase.setText("✚ " + (CharSequence) travelPhraseData.get(position).getHomePhrase());
+        pronounciation.setText("   ▶ " + (CharSequence) travelPhraseData.get(position).getPronounciation());
 
         final ImageButton copyPhraseButton = (ImageButton) row.findViewById(R.id.copyImageButton);
         final ImageButton voicePhraseButton = (ImageButton) row.findViewById(R.id.voiceImageButton);
@@ -78,7 +78,7 @@ public class PhrasesAdapterClass extends ArrayAdapter {
 
 
         // set visible to off by default
-        hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+        hideButtons(homePhrase, travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
 
         //set click listener such that it expands when layout is clicked.
         phrasesLayout.setOnClickListener(new View.OnClickListener() {
@@ -86,11 +86,11 @@ public class PhrasesAdapterClass extends ArrayAdapter {
             public void onClick(View view) {
                 if (pronounciation.getVisibility() == View.GONE)
                 {
-                    showButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+                    showButtons(homePhrase, travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
                 }
                 else
                 {
-                    hideButtons(travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
+                    hideButtons(homePhrase, travelPhrase, pronounciation, voicePhraseButton, copyPhraseButton);
                 }
 
             }
@@ -145,8 +145,12 @@ public class PhrasesAdapterClass extends ArrayAdapter {
         return row;
     }
 
-    private void hideButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
+    private void hideButtons(TextView homePhrase, TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
     {
+        String homeText = (String) homePhrase.getText();
+        homeText = homeText.replace("▬","✚");
+        homePhrase.setText(homeText);
+
         copyPhraseButton.setVisibility(View.GONE);
         voicePhraseButton.setVisibility(View.GONE);
         pronounciation.setVisibility(View.GONE);
@@ -154,8 +158,11 @@ public class PhrasesAdapterClass extends ArrayAdapter {
 
     }
 
-    private void showButtons(TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
+    private void showButtons(TextView homePhrase, TextView travelPhrase, TextView pronounciation, ImageButton voicePhraseButton, ImageButton copyPhraseButton)
     {
+        String homeText = (String) homePhrase.getText();
+        homeText = homeText.replace("✚","▬");
+        homePhrase.setText(homeText);
         copyPhraseButton.setVisibility(View.VISIBLE);
         //hide speaker button if google TTS not available
         if (!ttsManager.isGoogleTTSAvailable())
