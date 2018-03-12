@@ -15,8 +15,8 @@ android {
         applicationId "com.koreanenglishtravelhandbook"
         minSdkVersion 14
         targetSdkVersion 24
-        versionCode 10
-        versionName "10.0"
+        versionCode 1
+        versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
     }
