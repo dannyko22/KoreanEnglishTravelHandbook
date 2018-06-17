@@ -9,14 +9,14 @@ android {
             storePassword 'dannyko1'
         }
     }
-    compileSdkVersion 24
+    compileSdkVersion 26
     buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "com.koreanenglishtravelhandbook"
         minSdkVersion 14
-        targetSdkVersion 24
-        versionCode 1
-        versionName "1.0"
+        targetSdkVersion 26
+        versionCode 4
+        versionName "4.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
     }

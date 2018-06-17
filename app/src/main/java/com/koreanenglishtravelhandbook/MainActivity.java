@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity
         isStoragePermissionGranted();
         initializeAdNetwork();
 
-        setMaxVolume();
+        //setMaxVolume();
 
         checkEngineExist(this);
 
@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity
         RateThisApp.onStart(this);
         // If the criteria is satisfied, "Rate this app" dialog will be shown
 
-        RateThisApp.Config config = new RateThisApp.Config(2,2);
+        RateThisApp.Config config = new RateThisApp.Config(1,1);
         config.setUrl("market://details?id=com.koreanenglishtravelhandbook");
         RateThisApp.init(config);
         RateThisApp.showRateDialogIfNeeded(this);
@@ -381,16 +381,16 @@ public class MainActivity extends AppCompatActivity
         }
     };
 
-    private void setMaxVolume()
-    {
-        // Get the AudioManager
-        AudioManager audioManager = (AudioManager)this.getSystemService(Context.AUDIO_SERVICE);
-        // Set the volume of played media to maximum.
-        audioManager.setStreamVolume (
-                AudioManager.STREAM_MUSIC,
-                audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC),
-                0);
-    }
+//    private void setMaxVolume()
+//    {
+//        // Get the AudioManager
+//        AudioManager audioManager = (AudioManager)this.getSystemService(Context.AUDIO_SERVICE);
+//        // Set the volume of played media to maximum.
+//        audioManager.setStreamVolume (
+//                AudioManager.STREAM_MUSIC,
+//                audioManager.getStreamMaxVolume(AudioManager.STREAM_MUSIC),
+//                0);
+//    }
 
 
 }
